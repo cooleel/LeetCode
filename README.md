@@ -1,2 +1,4 @@
 # LeetCode
-### My solutions on LeetCode
+### My solutions on LeetCode   
+#### Algorithms
+#### Database
