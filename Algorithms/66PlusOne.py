@@ -18,10 +18,10 @@ class Solution:
         :type digits: List[int]
         :rtype: List[int]
         """
-        #idea is add one to the int
-        #change strs in the list to an int
+        #the idea is adding one to an int
+        #change the list to an int
         #add one
-        #split to a list meanwhile change str baok to int
+        #split the new int to a list meanwhile change str back to int
         new_list = []
         temp = ''.join(str(i) for i in digits)
         temp1 = str(int(temp)+1)
